@@ -1,287 +1,297 @@
-<!-- SOURAV HALDER | GITHUB PROFILE README -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0f2027,60:203a43,100:2c5364&height=250&section=header&text=Sourav%20Halder&fontSize=60&fontColor=ffffff&fontAlignY=42&desc=Aspiring%20Software%20Quality%20Assurance%20(SQA)%20Engineer&descSize=19&descAlignY=62&descColor=7ee8fa&animation=fadeIn&stroke=7ee8fa&strokeWidth=1" width="100%"/>
+
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=185&section=header&text=Sourav%20Halder&fontSize=52&fontColor=58a6ff&fontAlignY=36&desc=Aspiring%20SQA%20Engineer%20%7C%20Manual%20Testing%20%7C%20API%20Testing%20%7C%20Performance%20Testing&descAlignY=58&descSize=16&descColor=8b949e&animation=fadeIn" width="100%" alt="Sourav Halder Header"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=7EE8FA&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=%F0%9F%94%8D+Bug+Hunter+%7C+Quality+Advocate;%E2%9C%85+Writing+Test+Cases+That+Actually+Matter;%F0%9F%9A%80+API+Tester+with+Postman;%F0%9F%93%8B+IEEE+Research+Presenter;%F0%9F%8E%AF+Breaking+Software+So+Users+Don't+Have+To;%F0%9F%93%8A+Performance+Testing+Learner+%7C+JMeter;%F0%9F%A7%AA+Functional+%7C+Regression+%7C+Negative+Testing)](https://git.io/typing-svg)
+
 </div>
+
+<br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=souravhayan&style=for-the-badge&color=0d1117&labelColor=1f2937&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Open%20to-SQA%20Internship-00d084?style=for-the-badge&labelColor=0d1117" alt="Open to SQA Internship"/>
-  <img src="https://img.shields.io/badge/CSE-Expected%202026-58a6ff?style=for-the-badge&labelColor=0d1117" alt="CSE Expected 2026"/>
-  <img src="https://img.shields.io/badge/Dhaka-Bangladesh-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117" alt="Dhaka Bangladesh"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/its-sourav)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/souravhayan)&nbsp;
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:halder23105101502@diu.edu.bd)&nbsp;
+[![Location](https://img.shields.io/badge/Based%20In-Dhaka%2C%20Bangladesh-28a745?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
 </div>
 
-<h3 align="center">Software Quality Assurance focused CSE student with hands-on practice in test case design, API validation, bug reporting, and performance testing</h3>
+<br/>
 
-<p align="center">
-  <a href="mailto:halder23105101502@diu.edu.bd">
-    <img src="https://img.shields.io/badge/Email-halder23105101502%40diu.edu.bd-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/its-sourav" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-its--sourav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/souravhayan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-souravhayan-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
----
+<br/>
 
-## Professional Profile
+## 👨‍💻 Who Am I
 
-<table width="100%">
+<img align="right" alt="QA Testing Animation" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+I am a final-year CSE student at **Daffodil International University**, and I have been genuinely passionate about software quality for a while now. Not just the theory side, but actually sitting down, reading requirements carefully, writing test cases, running them, and finding that one edge case nobody thought about.
+
+I work with **Postman** for API testing, **Jira** for tracking bugs end to end, and **JMeter** when I want to see how software holds up under load. I have gone through the complete testing lifecycle on real projects, not just practice exercises.
+
+On top of that, I presented research at an **IEEE international conference** in 2026, which pushed me to think even more carefully and communicate technical work clearly.
+
+Right now I am actively looking for an **SQA internship** where I can contribute to a real team, learn from experienced engineers, and help build software people can actually trust.
+
+```
+ University   Daffodil International University · B.Sc. CSE (Expected 2026)
+ CGPA         3.39 / 4.00
+ Location     Dhaka, Bangladesh
+ Open To      SQA Internship · Junior QA Engineer Roles
+ Contact      halder23105101502@diu.edu.bd
+```
+
+<br clear="right"/>
+
+<br/>
+
+## 🎯 What I Am Working On Right Now
+
+<div align="center">
+
+| Area | What I Am Doing |
+|:---|:---|
+| 🔬 API Testing | Building structured Postman collections with environment variables and test scripts |
+| ⚙️ Test Automation | Studying automation foundations through Test Automation University |
+| 📊 Performance Testing | Practicing load test scenarios with Apache JMeter |
+| 🗂️ QA Portfolio | Documenting test cases, bug reports, and test plans on GitHub |
+| 📖 Learning | Deepening knowledge of testing methodologies and QA best practices |
+
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Testing and QA Tools
+
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](#)
+[![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+
+### Languages and Database
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
+
+</div>
+
+<br/>
+
+## 🧪 QA Skills Breakdown
+
+<div align="center">
+
+```
+ TESTING TYPES
+ ──────────────────────────────────────────────────────
+  Manual Testing            ████████████████████  Core Skill
+  Functional Testing        ████████████████████  Core Skill
+  Regression Testing        ██████████████████░░  Strong
+  Negative Testing          ██████████████████░░  Strong
+  Boundary Value Analysis   █████████████████░░░  Strong
+  Equivalence Partitioning  █████████████████░░░  Strong
+  API Testing               ████████████████░░░░  Practiced
+  Performance Testing       ████████████░░░░░░░░  Learning
+
+ TEST DOCUMENTATION
+ ──────────────────────────────────────────────────────
+  Test Case Writing         ████████████████████  Core Skill
+  Test Scenario Design      ████████████████████  Core Skill
+  Bug Reporting             ██████████████████░░  Strong
+  Requirement Analysis      █████████████████░░░  Strong
+```
+
+</div>
+
+<br/>
+
+## 📂 Featured Projects
+
+<div align="center">
+
+### 🏥 Hospital Management System · Manual Testing
+
+</div>
+
+> A full-stack web application built with PHP and MySQL. I tested all major modules including patient management, doctor scheduling, appointment booking, department control, billing, and medical records.
+
+<div align="center">
+
+| Metric | Detail |
+|:---:|:---:|
+| Total Test Cases | **64** |
+| Modules Covered | **7** |
+| Bugs Reported | **6 via Jira** |
+| Testing Types | Functional · Boundary · Negative · Regression |
+| Tools | Jira · Manual Testing |
+
+</div>
+
+This was my first end-to-end project where I went through the entire testing lifecycle. Writing 64 test cases forced me to read requirements closely, think about what could go wrong, and document everything in a way that any team member could follow.
+
+<br/>
+
+<div align="center">
+
+### 📡 Simple Books API Testing · Postman
+
+</div>
+
+> A comprehensive REST API test suite built in Postman. I covered authentication flows, full CRUD operations (GET, POST, PATCH, DELETE), status code validation, and response body verification across multiple endpoints.
+
+<div align="center">
+
+| Scope | Coverage |
+|:---:|:---:|
+| HTTP Methods | GET · POST · PATCH · DELETE |
+| Validation | Auth Flow · Status Codes · Response Body |
+| Tool | Postman Collections |
+| Focus | API Behavior · Edge Cases · Request Validation |
+
+</div>
+
+<br/>
+
+## 📄 Research Publication
+
+<div align="center">
+
+![IEEE](https://img.shields.io/badge/IEEE-QPAIN%202026-00629B?style=for-the-badge&logo=ieee&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Customized-7B2FBE?style=for-the-badge)
+![ViT](https://img.shields.io/badge/Vision%20Transformer-ViT-5C6BC0?style=for-the-badge)
+![TFLite](https://img.shields.io/badge/TensorFlow%20Lite-Android-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+</div>
+
+**Real-Time Potato Leaf Disease Detection Using Customized YOLOv8 and ViT**
+
+Presented at the IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence, and Networking (QPAIN 2026). We built and evaluated two customized deep learning models for detecting potato leaf disease in real time on Android devices.
+
+<div align="center">
+
+| Model | Result |
+|:---:|:---:|
+| Customized YOLOv8 | **94.3% mAP** |
+| Customized ViT | **99.33% Testing Accuracy** |
+| Deployment | Android App via TensorFlow Lite |
+
+</div>
+
+<br/>
+
+## 🏆 Certifications
+
+<div align="center">
+
+<table>
 <tr>
-<td width="56%" valign="top">
 
-### About Me
+<td align="center" width="33%">
 
-I am a final-year **BSc in Computer Science and Engineering** student at **Daffodil International University**, building my career in **Software Quality Assurance**.
+![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white)
 
-My core interest is making software more reliable through structured testing, clear documentation, and careful defect tracking. I have hands-on experience in writing test cases, executing functional and regression tests, validating REST APIs with Postman, reporting bugs in Jira, and checking performance behavior with JMeter.
+**Webservices API Testing**
+**with Postman**
 
-I am actively looking for an **SQA internship** where I can contribute to real testing tasks, learn from experienced QA teams, and grow into a professional QA engineer.
-
-</td>
-<td width="44%" valign="top">
-
-### Snapshot
-
-| Item | Details |
-|------|---------|
-| Name | Sourav Halder |
-| Degree | BSc in CSE |
-| University | Daffodil International University |
-| Expected Graduation | 2026 |
-| CGPA | 3.39 / 4.00 |
-| Career Goal | SQA Engineer |
-| Location | Dhaka, Bangladesh |
-
-### Current Focus
-
-- Manual Testing
-- Functional Testing
-- Regression Testing
-- API Testing with Postman
-- Bug Tracking with Jira
-- Performance Testing with JMeter
-- Test Documentation
+May 2026
 
 </td>
+
+<td align="center" width="33%">
+
+![TAU](https://img.shields.io/badge/Test%20Automation%20University-2196F3?style=for-the-badge&logo=academia&logoColor=white)
+
+**Setting a Foundation for**
+**Successful Test Automation**
+
+Apr 2025
+
+</td>
+
+<td align="center" width="33%">
+
+![Microsoft](https://img.shields.io/badge/Microsoft-258FFA?style=for-the-badge&logo=microsoft&logoColor=white)
+
+**Foundational C#**
+**with Microsoft**
+
+Sep 2023
+
+</td>
+
 </tr>
 </table>
 
----
-
-## SQA Highlights
-
-<table width="100%">
-<tr>
-<td align="center" width="25%">
-  <b>64+</b><br/>
-  Test Cases Executed
-</td>
-<td align="center" width="25%">
-  <b>6</b><br/>
-  Bugs Tracked in Jira
-</td>
-<td align="center" width="25%">
-  <b>REST API</b><br/>
-  Tested with Postman
-</td>
-<td align="center" width="25%">
-  <b>JMeter</b><br/>
-  Performance Testing
-</td>
-</tr>
-</table>
-
----
-
-## Skills
-
-### Testing Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Manual%20Testing-161b22?style=for-the-badge&color=58a6ff" alt="Manual Testing"/>
-  <img src="https://img.shields.io/badge/Functional%20Testing-161b22?style=for-the-badge&color=58a6ff" alt="Functional Testing"/>
-  <img src="https://img.shields.io/badge/Regression%20Testing-161b22?style=for-the-badge&color=58a6ff" alt="Regression Testing"/>
-  <img src="https://img.shields.io/badge/Negative%20Testing-161b22?style=for-the-badge&color=58a6ff" alt="Negative Testing"/>
-  <img src="https://img.shields.io/badge/API%20Testing-161b22?style=for-the-badge&color=ff6c37" alt="API Testing"/>
-  <img src="https://img.shields.io/badge/Performance%20Testing-161b22?style=for-the-badge&color=ff6c37" alt="Performance Testing"/>
-  <img src="https://img.shields.io/badge/Boundary%20Value%20Analysis-161b22?style=for-the-badge&color=8b949e" alt="Boundary Value Analysis"/>
-  <img src="https://img.shields.io/badge/Equivalence%20Partitioning-161b22?style=for-the-badge&color=8b949e" alt="Equivalence Partitioning"/>
-  <img src="https://img.shields.io/badge/Test%20Case%20Design-161b22?style=for-the-badge&color=8b949e" alt="Test Case Design"/>
-  <img src="https://img.shields.io/badge/Bug%20Reporting-161b22?style=for-the-badge&color=8b949e" alt="Bug Reporting"/>
-</p>
-
-### Tools and Technical Foundation
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-  <img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,git,github,vscode,python,c,mysql,linux&theme=dark&perline=8" alt="Skill Icons"/>
-</p>
-
----
-
-## SQA Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### Hospital Management System
-
-**Role:** SQA Tester  
-**Focus:** Manual Testing, Functional Testing, Regression Testing, Jira Bug Tracking
-
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
-</p>
-
-A hospital management web application with modules for departments, doctors, patients, appointments, billing, and administration. I focused on validating the application flow from a QA perspective.
-
-**Testing Work:**
-
-- Designed and executed **64 test cases** across 7 modules
-- Covered positive, negative, boundary, and functional scenarios
-- Reported **6 defects** with clear reproduction steps
-- Tracked issue status and test progress using Jira
-- Prepared testing documentation for project review
-
-</td>
-<td width="50%" valign="top">
-
-### Simple Books API Testing
-
-**Role:** API Tester  
-**Focus:** REST API Testing, Postman Collection, Assertions, Edge Cases
-
-<p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/REST%20API-555555?style=flat-square" alt="REST API"/>
-  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON"/>
-</p>
-
-A REST API testing practice project where I validated request methods, authentication flow, response structure, status codes, and error handling using Postman.
-
-**Testing Work:**
-
-- Tested `GET`, `POST`, `PATCH`, and `DELETE` requests
-- Validated status codes, response body, headers, and JSON fields
-- Checked authentication and token-based request handling
-- Created reusable Postman requests and test assertions
-- Covered basic edge cases and invalid input scenarios
-
-</td>
-</tr>
-</table>
-
----
-
-## Research Experience
-
-<table width="100%">
-<tr>
-<td width="62%" valign="top">
-
-### Real-Time Potato Leaf Disease Detection Using Customized YOLOv8 and ViT
-
-Presented at the **IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence, and Networking (QPAIN 2026)**.
-
-This research experience strengthened my analytical thinking, documentation ability, result interpretation, and evidence-based problem solving. These skills are directly useful in QA work, especially when analyzing defects, writing clear reports, and validating system behavior.
-
-</td>
-<td width="38%" valign="top">
-
-| Area | Details |
-|------|---------|
-| Models | Customized YOLOv8, ViT |
-| YOLOv8 mAP | 94.3% |
-| ViT Accuracy | 99.33% |
-| Deployment | TensorFlow Lite |
-| Platform | Android App |
-
-<p align="center">
-  <img src="https://img.shields.io/badge/IEEE-Conference%20Presenter-00aef0?style=for-the-badge&logo=ieee&logoColor=white&labelColor=0d1117" alt="IEEE Presenter"/>
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-## Certifications
-
-| Certificate | Issuer | Date |
-|------------|--------|------|
-| Webservices API Testing with Postman - Complete Guide | Udemy | May 2026 |
-| Setting a Foundation for Successful Test Automation | Test Automation University | Apr 2025 |
-| Foundational C# with Microsoft | Microsoft and freeCodeCamp | Sep 2023 |
-
----
-
-## Experience
-
-### Microsoft Learn Student Ambassador
-
-**Duration:** 2023 - 2024  
-**Focus:** Azure awareness, developer tools, student engagement
-
-- Organized 4 awareness sessions for **200+ students**
-- Helped students explore Microsoft Learn paths and developer resources
-- Promoted self-paced learning, cloud awareness, and technical community participation
-- Improved public speaking, event coordination, and technical communication skills
-
----
-
-## GitHub Activity
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=souravhayan&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6c37&currStreakLabel=58a6ff&sideLabels=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=8b949e" width="49%" alt="GitHub Streak Stats"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=souravhayan&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=10&rank=C,B,A,AA,AAA,S,SS,SSS,SECRET" width="49%" alt="GitHub Trophies"/>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=souravhayan&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=0d2137&area=true&hide_border=true&custom_title=Contribution%20Graph" width="98%" alt="Contribution Graph"/>
-</p>
+<br/>
 
----
+## 💼 Work Experience
 
-## Contact
+**Student Ambassador · Microsoft Learn** &nbsp; `2023 – 2024`
 
-<p align="center">
-  <b>Actively looking for an SQA internship opportunity.</b><br/>
-  Open to internship roles in Software Quality Assurance, manual testing, API testing, and QA documentation.
-</p>
+Ran 4 awareness sessions that reached over 200 students on Microsoft Azure and developer tools. Helped students navigate Microsoft Learn paths and get started with self-paced learning. It was a good experience talking about technology with people who are just starting out.
 
-<p align="center">
-  <a href="mailto:halder23105101502@diu.edu.bd">
-    <img src="https://img.shields.io/badge/Email-halder23105101502%40diu.edu.bd-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/its-sourav" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-its--sourav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/souravhayan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-souravhayan-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
-  </a>
-</p>
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=95&section=footer&text=Thanks%20for%20visiting&fontSize=16&fontColor=8b949e&fontAlignY=66&animation=fadeIn" width="100%" alt="Footer"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=souravhayan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7ee8fa&icon_color=7ee8fa&text_color=8b949e&count_private=true&include_all_commits=true"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravhayan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7ee8fa&text_color=8b949e&langs_count=6"/>
+
 </div>
 
-<!-- Last updated: 2026 -->
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=souravhayan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=7EE8FA&fire=7EE8FA&currStreakLabel=7EE8FA&sideLabels=7EE8FA&dates=8b949e"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=souravhayan&bg_color=0d1117&color=7ee8fa&line=7ee8fa&point=ffffff&area=true&area_color=7ee8fa&hide_border=true" width="100%"/>
+
+</div>
+
+<br/>
+
+## 📬 Get In Touch
+
+<div align="center">
+
+If you are a recruiter, QA lead, or just someone interested in connecting, feel free to reach out. I respond to all messages.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-its--sourav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/its-sourav)
+[![GitHub](https://img.shields.io/badge/GitHub-souravhayan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/souravhayan)
+[![Email](https://img.shields.io/badge/Email-halder23105101502%40diu.edu.bd-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:halder23105101502@diu.edu.bd)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=souravhayan&color=7ee8fa&style=for-the-badge&label=Profile+Views)
+
+<br/>
+
+*Good software is built by people who care. Quality is where that care shows.*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0d1117&height=140&section=footer&fontSize=14&fontColor=7ee8fa&text=Open%20to%20SQA%20Internship%20Opportunities&fontAlignY=65&animation=twinkling" width="100%"/>
