@@ -271,7 +271,7 @@ Ran 4 awareness sessions reaching 200+ students on Microsoft Azure and developer
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=souravhayan&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4&exclude=Stars,Followers,Issues,PullRequest,Reviews" width="80%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=souravhayan&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="80%"/>
 
 </div>
 
